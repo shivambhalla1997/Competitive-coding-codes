@@ -1,4 +1,6 @@
-    #include <bits/stdc++.h>
+// question link: https://www.codechef.com/LRNDSA02/problems/INPSTFIX
+
+#include <bits/stdc++.h>
 
     using namespace std;
     int main(){
