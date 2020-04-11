@@ -1,4 +1,5 @@
 // question link: https://www.codechef.com/LRNDSA02/problems/INPSTFIX
+// watch coding school video on youtube for more clearity
 
 #include <bits/stdc++.h>
 
